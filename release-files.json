@@ -1,0 +1,14 @@
+[
+  ".gitignore",
+  "AGENTS.md",
+  "LICENSE",
+  "README.md",
+  "cordis.patch.yml",
+  "lib/client.js",
+  "lib/index.js",
+  "package-lock.json",
+  "package.json",
+  "release-files.json",
+  "scripts/check-release.mjs",
+  "test/pure-mode.test.mjs"
+]
